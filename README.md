@@ -4,13 +4,18 @@
   <a href="https://twitter.com/OluwatuyiAbiola">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge"/>
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/oluwatuyiabiola/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=OluwatuyiAbiola&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 
