@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge"/>
   </a>
   <a href="https://www.instagram.com/oluwatuyiabiola/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter badge"/>
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter badge"/>
+  <a href="https://www.linkedin.com/in/oluwatuyi-abiola-2059701a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=OluwatuyiAbiola&style=flat-square&color=blue" alt=""/>
