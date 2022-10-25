@@ -19,7 +19,7 @@
 </div>
 
 ### :man_technologist: About Me :
- I’m developer from Lagos, Nigeria.
+ I’m Oluwatuyi Abiola a developer from Lagos, Nigeria.
 - 👀 I’m interested in Mobile and Web development and Engineering
 - 🌱 I’m currently learning MERN stack and Dart
 - 💞️ I’m looking to collaborate on Frontend Projects and Mobile Application Development
